@@ -1,2 +1,5 @@
 # powerhorang2.github.io
-깃허브 블로그 생성
+
+Github 블로그 생성
+
+참조 사이트 : https://dreamgonfly.github.io/blog/jekyll-remote-theme/
